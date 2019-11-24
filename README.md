@@ -1,4 +1,4 @@
-# LRKerbalaism
+# LRKerbalism
 Kerbal Space Program - Less Real KerbalismConfig
 
 KerbalismConfig configuration for the Less Real Than Real(ism) mod.
