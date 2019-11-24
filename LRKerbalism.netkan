@@ -7,8 +7,7 @@
     "ksp_version"  : "1.7.3",
     "license"      : "CC-BY-NC-SA-4.0",
     "depends"      : [
-    	{ "name"   : "Kerbalism" },
-    	{ "name"   : "LRTR" }
+    	{ "name"   : "Kerbalism" }
      ],
      "install": [{
 		"find": "KerbalismConfig",
