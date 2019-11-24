@@ -1,0 +1,18 @@
+{
+    "spec_version" : "v1.18",
+    "identifier"   : "LRKerbalism",
+    "name"		   : "KerbalismConfig for Less Real Than Real(ism)",
+	"abstract"     : "KerbalismConfig for Kerbalism using Less Real Than Real(ism)",    
+	"$kref"        : "#/ckan/github/pehvbot/LRKerbalism/",
+    "ksp_version"  : "1.7.3",
+    "license"      : "CC-BY-NC-SA-4.0",
+    "depends"      : [
+    	{ "name"   : "Kerbalism" },
+    	{ "name"   : "LRTR" }
+     ],
+     "install": [{
+		"find": "KerbalismConfig",
+		"install_to": "GameData"
+	}]
+
+}
