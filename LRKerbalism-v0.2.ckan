@@ -1,0 +1,50 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "LRKerbalism",
+    "name": "Kerbalism - LRTR Config",
+    "abstract": "LRTR KerbalismConfig",
+    "author": "pehvbot",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "repository": "https://github.com/pehvbot/LRKerbalism"
+    },
+    "version": "v0.2",
+    "localizations": [
+        "en-us",
+        "ru",
+        "de-de",
+        "pt-br"
+    ],
+    "provides": [
+        "Kerbalism-Config"
+    ],
+    "depends": [
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "LRTR"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "Kerbalism-Config"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbalismConfig",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://github.com/pehvbot/LRKerbalism/releases/download/v0.2/LRKerbalism-v0.2.zip",
+    "download_size": 3406635,
+    "download_hash": {
+        "sha1": "8AAEE6D055AEF8D2776DCAAF3A94DBAEFF49A24A",
+        "sha256": "AD9A66A5D871A02FD59024E14293D21B8F29D14D2FD9032B8607FF4624616FE3"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}
