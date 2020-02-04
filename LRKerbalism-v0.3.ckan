@@ -8,7 +8,7 @@
     "resources": {
         "repository": "https://github.com/pehvbot/LRKerbalism"
     },
-    "version": "v0.2",
+    "version": "v0.3",
     "localizations": [
         "en-us",
         "ru",
@@ -39,11 +39,11 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://github.com/pehvbot/LRKerbalism/releases/download/v0.2/LRKerbalism-v0.2.zip",
-    "download_size": 3406635,
+    "download": "https://github.com/pehvbot/LRKerbalism/releases/download/v0.3/LRKerbalism-v0.3.zip",
+    "download_size": 3387592,
     "download_hash": {
-        "sha1": "8AAEE6D055AEF8D2776DCAAF3A94DBAEFF49A24A",
-        "sha256": "AD9A66A5D871A02FD59024E14293D21B8F29D14D2FD9032B8607FF4624616FE3"
+        "sha1": "2619F73748FB2DCA0B6321298881F48B92C5E568",
+        "sha256": "25BC48B1070A0F2BF2A4D5447A50D12BC734A060CD67AEE167FECFEC18D44CAC"
     },
     "download_content_type": "application/zip",
     "x_generated_by": "netkan"
